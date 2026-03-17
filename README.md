@@ -1,6 +1,6 @@
 # GigWorker-Insurance-AI
-AI powered parametric insurance platform for gig workers
-# SOLUTION AND FEATURES
+# AI powered parametric insurance platform for gig workers
+## SOLUTION AND FEATURES
   ## Solution Overview – ShieldPay
 
 ShieldPay is an AI-powered parametric income protection system for gig delivery workers in quick-commerce platforms. Delivery partners often face sudden income drops due to factors like heavy rain, traffic congestion, demand fluctuations, or temporary platform outages. Traditional insurance does not cover these short-term income disruptions.
@@ -56,7 +56,7 @@ Once the trigger condition is satisfied, the system automatically generates an i
 **6. Automated Payout**  
 The payout amount is calculated based on policy rules and transferred to the worker.
 
-* ## Claim Rule
+ ## Claim Rule
 
 ShieldPay follows a simple parametric rule to determine when an insurance payout should be triggered.
 
@@ -70,7 +70,7 @@ Income Drop = 33% → Claim Triggered
 
 This threshold helps ensure that payouts occur only during meaningful disruptions, while preventing small income fluctuations from generating unnecessary claims.
 
-* ## Key Features
+ ## Key Features
 
 **AI-Based Income Prediction**  
 Machine learning models estimate a worker’s expected earnings based on platform activity, delivery patterns, and demand trends.
