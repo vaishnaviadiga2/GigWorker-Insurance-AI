@@ -95,9 +95,9 @@ Additionally, ShieldPay combines **activity verification (login time, orders, ac
 Finally, the solution demonstrates a **practical embedded insurance model using simulated platform APIs**, showing how real-time integration with gig platforms can enable fully automated, scalable income protection.
 
 ---
-## 🏗️ System Architecture
+##  System Architecture
 
-### 1. Data Ingestion & Integration Layer (The Connector)
+### 1. Data Ingestion & Integration Layer
 
 - **Mock Platform API Gateway:**  
   Simulates B2B2C integration by ingesting worker activity data (login/logout, orders, active hours, delivery attempts)
@@ -109,9 +109,9 @@ Finally, the solution demonstrates a **practical embedded insurance model using 
   Uses SIMD-accelerated string processing to parse and filter large-scale platform logs efficiently
 
 
----
 
-### 2. Core AI & Logic Layer (The Brain)
+
+### 2. Core AI & Logic Layer 
 
 - **ML Income Prediction Engine:**  
   Estimates *Expected Earnings* using historical activity and demand patterns
@@ -123,9 +123,9 @@ Finally, the solution demonstrates a **practical embedded insurance model using 
   Uses Z3Py to verify pricing and payout logic, ensuring mathematical consistency and financial stability
 
 
----
 
-### 3. Parametric Automation Layer (The Engine)
+
+### 3. Parametric Automation Layer 
 
 - **Zero-Touch Claim Orchestrator:**  
   Automatically triggers claims when parametric conditions are met
@@ -137,9 +137,9 @@ Finally, the solution demonstrates a **practical embedded insurance model using 
   Dynamically adjusts premiums based on worker behavior and claim history
 
 
----
 
-### 4. Security & Trust Layer (The Guardian)
+
+### 4. Security & Trust Layer 
 
 - **Trust Score System:**  
   Evaluates worker reliability to determine payout speed (instant vs delayed)
@@ -151,9 +151,9 @@ Finally, the solution demonstrates a **practical embedded insurance model using 
   Ensures only valid parametric triggers can authorize payouts
 
 
----
 
-### 5. Data & Financial Ledger (The Foundation)
+
+### 5. Data & Financial Ledger 
 
 - **Immutable Transaction Ledger:**  
   Uses TigerBeetle for high-integrity financial records
@@ -163,6 +163,8 @@ Finally, the solution demonstrates a **practical embedded insurance model using 
 
 - **Edge Dashboard:**  
   Uses WASM + SQLite for fast local rendering of earnings and trust metrics
+
+  ---
 # Business Model & Impact — ShieldPay
 
 ## Business Model (B2B2C – Embedded Insurance)
