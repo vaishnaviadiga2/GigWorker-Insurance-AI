@@ -35,7 +35,7 @@ Until recently, gig workers had no formal legal status, classified as independen
 
 ## User Personas  
 
-### Rahul (Mumbai, age 28)   
+ Rahul (Mumbai, age 28)   
 Rahul is a full-time q-commerce delivery partner (motorbike courier) affiliated
 with a leading app. He logs in ~10–12 hours on most weekdays and 8–10 on weekends, aiming for the peak-
 hour incentives. Income: On average he delivers ~25 orders/day, earning gross ~₹2,600/day (≈₹26,000/
@@ -47,7 +47,7 @@ and regularly uses WhatsApp and the delivery app. Rahul is concerned about healt
 major bike repairs, and wants more income stability.
 ---
 
-### Anita (Bengaluru, age 22)  
+ Anita (Bengaluru, age 22)  
 Anita is a part-time delivery partner and college student. She logs 4–6 hours
 on 3–4 weekdays, mostly during lunch/early evening, and works ~8 hours on Saturdays. Income: She
 completes ~12 orders/day when busy, earning ~₹600/day. Monthly income ~₹7,000 (fluctuates ±30% by
