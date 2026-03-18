@@ -95,7 +95,74 @@ Additionally, ShieldPay combines **activity verification (login time, orders, ac
 Finally, the solution demonstrates a **practical embedded insurance model using simulated platform APIs**, showing how real-time integration with gig platforms can enable fully automated, scalable income protection.
 
 ---
+## 🏗️ System Architecture
 
+### 1. Data Ingestion & Integration Layer (The Connector)
+
+- **Mock Platform API Gateway:**  
+  Simulates B2B2C integration by ingesting worker activity data (login/logout, orders, active hours, delivery attempts)
+
+- **External Telemetry Ingestor:**  
+  Polls Weather, Traffic, and Social Disruption APIs to correlate external events with worker performance
+
+- **High-Throughput Processing:**  
+  Uses SIMD-accelerated string processing to parse and filter large-scale platform logs efficiently
+
+
+---
+
+### 2. Core AI & Logic Layer (The Brain)
+
+- **ML Income Prediction Engine:**  
+  Estimates *Expected Earnings* using historical activity and demand patterns
+
+- **Disruption Detection Module:**  
+  Applies the **30% Drop Rule** (Actual vs Predicted Earnings) to automatically flag claims
+
+- **Formal Logic Verifier:**  
+  Uses Z3Py to verify pricing and payout logic, ensuring mathematical consistency and financial stability
+
+
+---
+
+### 3. Parametric Automation Layer (The Engine)
+
+- **Zero-Touch Claim Orchestrator:**  
+  Automatically triggers claims when parametric conditions are met
+
+- **Payout Calculator:**  
+  Applies rule → `Payout = 70% of income loss`
+
+- **Weekly Billing Service:**  
+  Dynamically adjusts premiums based on worker behavior and claim history
+
+
+---
+
+### 4. Security & Trust Layer (The Guardian)
+
+- **Trust Score System:**  
+  Evaluates worker reliability to determine payout speed (instant vs delayed)
+
+- **Intelligent Fraud Detection:**  
+  Detects GPS spoofing, validates activity, and prevents duplicate claims
+
+- **Capability-Based Security:**  
+  Ensures only valid parametric triggers can authorize payouts
+
+
+---
+
+### 5. Data & Financial Ledger (The Foundation)
+
+- **Immutable Transaction Ledger:**  
+  Uses TigerBeetle for high-integrity financial records
+
+- **Optimized Storage Engine:**  
+  Uses io_uring for high-performance database operations during peak load
+
+- **Edge Dashboard:**  
+  Uses WASM + SQLite for fast local rendering of earnings and trust metrics
 # Business Model & Impact — ShieldPay
 
 ## Business Model (B2B2C – Embedded Insurance)
