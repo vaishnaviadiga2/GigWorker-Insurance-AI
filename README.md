@@ -325,9 +325,54 @@ Finally, the solution demonstrates a **practical embedded insurance model using 
 | Parametric Trigger System   | Executes payout logic                  | Income gap + disruption signals                         | If drop >30% → payout = 70% of loss                                               | Low-latency backend + verified logic                  | Instant claim activation                   |
 | Fraud Detection Model       | Identifies malicious activity          | Activity logs (login, orders, deliveries), GPS data     | Anomaly detection for spoofing, fake claims, duplicates                           | SIMD (AVX-512) log processing + validation engine     | Prevents fraud & financial loss            |
 | Trust Score System          | Scores worker reliability              | Fraud signals + consistency metrics                     | Higher consistency → higher trust score → faster payouts                          | Scoring algorithm + activity tracking                 | Enables priority / instant payouts         |
-| Activity Validation Layer   | Confirms genuine activity              | GPS + platform telemetry                                | Cross-verifies signals to ensure authenticity                                     | Capability-based security model                       | Secure & trustworthy system                |
+| Activity Validation Layer   | Confirms genuine activity              | GPS + platform telemetry                                | Cross-verifies signals to ensure authenticity           
+| Capability-based security model                       | Secure & trustworthy system                |
 
-# Business Model & Impact — ShieldPay
+---
+##  ML Models 
+
+### 1. Income Prediction Model: The Digital Baseline
+
+This model creates a personalized **Expected Earnings** profile for every worker. Instead of relying on simple averages, it uses advanced forecasting techniques to determine what a worker should have earned.
+
+- **Transformer-Based Forecasting:**  
+  We use a minimal transformer architecture to analyze time-series delivery data. This allows the model to learn patterns from a worker’s long-term history and accurately predict earnings for specific shifts.
+
+- **Linear & Affine Adjustments:**  
+  Mathematical linear and affine transformations are applied to refine predictions. This enables the system to adjust expectations based on external factors such as high-traffic zones or peak demand hours.
+
+- **Mojo for Scalable Inference:**  
+  The system leverages Mojo to optimize model inference performance. This enables efficient execution of large-scale predictions across thousands of workers while maintaining low latency and cost efficiency.
+  
+
+### 2. Disruption Detection Model: The Mathematical Trigger
+
+This model acts as the **parametric trigger** that executes ShieldPay’s core rule: if income drops by more than 30% due to external factors, a payout is automatically initiated.
+
+- **Performance-Gap Analysis:**  
+  Instead of relying only on external events, the model evaluates the actual performance gap by comparing predicted earnings with real earnings from platform data.
+
+- **Z3Py Formal Verification:**  
+  The 30% trigger logic is mathematically verified to ensure correctness. This guarantees that payouts are triggered only under valid conditions and prevents incorrect or unsafe states.
+
+- **Error-Free Design:**  
+  The system follows the principle of making invalid states unrepresentable, ensuring that scenarios such as negative payouts or duplicate claims cannot occur.
+
+
+### 3. Intelligent Fraud Detection: Hardware-Level Security
+
+This model functions as a high-speed security layer to detect and prevent fraudulent activity such as GPS spoofing and fake claims.
+
+- **SIMD (Hardware-Level Scanning):**  
+  Advanced parallel processing techniques are used to scan large volumes of activity logs (login times, order attempts) simultaneously, enabling real-time detection of suspicious patterns.
+
+- **AI-Resistant Evaluations:**  
+  The fraud detection logic is designed to prevent manipulation by automated bots or spoofing scripts, ensuring system integrity.
+
+- **Activity Validation:**  
+  The model cross-references orders accepted with deliveries completed and correlates them with external conditions. This ensures that disruptions are legitimate and not artificially generated.
+
+---
 
 ## Business Model (B2B2C – Embedded Insurance)
 
