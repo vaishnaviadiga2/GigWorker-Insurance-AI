@@ -168,6 +168,7 @@ Parametric Trigger
 Claim Generation  
 ↓  
 Payout
+<img width="564" height="1844" alt="image" src="https://github.com/user-attachments/assets/9f498f05-b36f-4a6c-a0d2-24d52352653c" />
 
 ### Step-by-Step Flow
 
