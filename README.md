@@ -300,6 +300,21 @@ Finally, the solution demonstrates a **practical embedded insurance model using 
   Uses WASM + SQLite for fast local rendering of earnings and trust metrics
 
   ---
+  ##  Mock Delivery Platform API 
+
+| Data Field                 | What It Simulates                     | Role in Workflow                      | ML / System Usage                                 | Tech Implementation                           | Outcome                       |
+|----------------------------|-------------------------------------|-------------------------------------|--------------------------------------------------|-----------------------------------------------|-------------------------------|
+| Login / Logout Time        | Worker shift start & end time       | Data Collection (availability window) | Evaluates work consistency for Trust Score       | REST API + high-throughput logging (io_uring) | Reliable activity baseline    |
+| Deliveries Completed       | Number of completed deliveries      | Used in comparison stage            | Represents **Actual Earnings** (e.g., ₹750)      | Logged efficiently for real-time processing   | Ground truth for payout       |
+| Active Hours               | Total time worker is active         | Compared with earnings              | Detects efficiency gaps (time vs income)         | Processed via ML pipeline                     | Identifies underperformance   |
+| Orders Accepted            | Number of accepted orders           | Helps detect disruptions            | High accepted + low completed → disruption signal| Activity validation + fraud checks            | Detects platform issues       |
+| Predicted Income (Derived) | ML-generated expected earnings      | Comparison stage                    | Forecasts expected income (e.g., ₹1200)          | ML model integration                          | Benchmark for claims          |
+| Income Gap Analysis        | Difference between actual & predicted| Trigger evaluation                  | If drop > 30% → disruption detected              | Z3Py logic verification                       | Ensures correct trigger logic |
+| Disruption Trigger         | Automatic event detection           | Final workflow step                 | Activates parametric insurance                   | Verified + low-latency system                 | Enables zero-touch claim      |
+| Fraud Signals              | GPS + activity correlation          | Continuous validation               | Detects spoofing / duplicate claims              | Activity validation engine                    | Secure & trustworthy payouts  |
+
+---
+
 # Business Model & Impact — ShieldPay
 
 ## Business Model (B2B2C – Embedded Insurance)
