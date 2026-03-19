@@ -157,7 +157,7 @@ For the hackathon, this integration is simulated using a mock platform API that 
 
 ShieldPay processes delivery platform data to detect income disruptions and trigger automated insurance payouts.
 
-<img width="50" height="200" alt="image" src="https://github.com/user-attachments/assets/9f498f05-b36f-4a6c-a0d2-24d52352653c" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/9f498f05-b36f-4a6c-a0d2-24d52352653c" />
 
 ### Step-by-Step Flow
 
