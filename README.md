@@ -324,12 +324,7 @@ Finally, the solution demonstrates a **practical embedded insurance model using 
 | Income Gap Analysis         | Measures earnings difference           | Predicted vs actual earnings                            | Calculates loss and validates trigger conditions                                  | Verified logic system                                 | Accurate payout calculation                |
 | Parametric Trigger System   | Executes payout logic                  | Income gap + disruption signals                         | If drop >30% → payout = 70% of loss                                               | Low-latency backend + verified logic                  | Instant claim activation                   |
 | Fraud Detection Model       | Identifies malicious activity          | Activity logs (login, orders, deliveries), GPS data     | Anomaly detection for spoofing, fake claims, duplicates                           | SIMD (AVX-512) log processing + validation engine     | Prevents fraud & financial loss            |
-| Trust Score System          | Scores worker reliability              | Fraud signals + consistency metrics                     | Higher consistency → higher trust score → faster payouts                          | Scoring algorithm + activity tracking                 | Enables priority / instant payouts         |
-| Activity Validation Layer   | Confirms genuine activity              | GPS + platform telemetry                                | Cross-verifies signals to ensure authenticity           
-| Capability-based security model                       | Secure & trustworthy system                |
-
----
-##  ML Models 
+       
 
 ### 1. Income Prediction Model: The Digital Baseline
 
