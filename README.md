@@ -418,6 +418,23 @@ The Trust Score acts as a critical safeguard to maintain the platform's long-ter
 By combining these controls with intelligent risk scoring, ShieldPay protects its capital while ensuring reliable support for genuine gig workers.
 
 ---
+## Defined Tech Stack
+
+### 1. Core Technology Stack
+
+| Category        | Recommended Technology              | Rationale & Strategic Alignment                                                                 |
+|----------------|------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Backend**    | Rust / Go                          | High-concurrency performance to handle real-time parametric triggers across thousands of workers |
+|                | TigerBeetle                        | Immutable financial ledger ensuring 100% integrity for premiums and payouts                    |
+|                | io_uring                           | Low-latency I/O handling for massive spikes in activity logs during disruptions                |
+| **Machine Learning** | Python (Scikit-learn / PyTorch) | Industry standard for building income prediction and fraud detection models                    |
+|                | Mojo                               | Efficient scaling of model inference for large user bases                                       |
+|                | Z3Py                               | Formal verification of trigger logic and payout correctness                                     |
+| **Frontend**   | React Native / Next.js             | Mobile app for workers and web dashboard for admin analytics                                    |
+|                | WASM-based SQLite                  | Edge-side storage for fast local querying and dashboard performance                             |
+| **Cloud**      | AWS / Azure                        | Scalable infrastructure to support real-time analytics and ML workloads                         |
+
+---
 
 ## Business Model (B2B2C – Embedded Insurance)
 
