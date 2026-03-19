@@ -373,6 +373,56 @@ This model functions as a high-speed security layer to detect and prevent fraudu
   The model cross-references orders accepted with deliveries completed and correlates them with external conditions. This ensures that disruptions are legitimate and not artificially generated.
 
 ---
+##  Trust Score System
+
+The Trust Score system serves as the intelligent risk-management backbone of the platform, designed to distinguish between genuine income disruptions and potential system misuse. It functions as a dynamic reputation engine that evaluates each delivery partner across three key dimensions.
+
+
+### 1. Evaluation Dimensions
+
+| Dimension            | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| Work Consistency     | Measures active hours and delivery attempts to ensure genuine participation |
+| Claim History        | Tracks frequency and pattern of past claims to identify misuse              |
+| Behavioral Anomalies | Detects suspicious patterns such as GPS spoofing or abnormal activity       |
+
+
+### 2. Technical Foundation of Trust
+
+To ensure high performance and system reliability, the Trust Score mechanism is built on strong technical principles:
+
+- **Formal Logic Verification:**  
+  The scoring algorithms are mathematically verified to ensure that transitions between trust tiers remain consistent and valid, preventing incorrect decisions or unfair penalties.
+
+- **Hardware-Accelerated Anomaly Detection:**  
+  The system processes large volumes of activity logs in real time using parallel processing techniques (such as SIMD/AVX-512), enabling fast detection of anomalies like GPS spoofing or unrealistic location changes.
+
+- **Secure Capability-Based Profiling:**  
+  The Trust Score can only be updated using verified, tamper-proof signals from the platform API, ensuring it cannot be manipulated by external entities.
+
+
+### 3. Tiered Impact on Payouts
+
+| Trust Level  | Processing Type     | Payout Behavior                                      |
+|--------------|--------------------|------------------------------------------------------|
+| High Trust   | Instant Processing | Full payout (70% of income loss), zero-touch claims |
+| Medium Trust | Standard Processing| Additional automated verification steps              |
+| Low Trust    | Restricted         | Delayed, reduced, or rejected payouts               |
+
+
+### 4. Strategic Role & Sustainability
+
+The Trust Score acts as a critical safeguard to maintain the platform's long-term financial sustainability. To prevent system misuse and ensure fairness, the following claim control mechanisms are enforced:
+
+| Control Mechanism   | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| Parametric Threshold | Claim triggered only if income drop exceeds 30%                           |
+| Frequency Cap        | Maximum of 3 claims per worker per month                                  |
+| Continuous Validation| Real-time fraud detection validates every automated claim                |
+
+By combining these controls with intelligent risk scoring, ShieldPay protects its capital while ensuring reliable support for genuine gig workers.
+
+---
 
 ## Business Model (B2B2C – Embedded Insurance)
 
