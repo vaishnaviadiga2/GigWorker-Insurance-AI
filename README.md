@@ -1,4 +1,4 @@
-# GigWorker-Insurance-AI
+# AI powered parametric insurance platform for gig workers
 
 
 ## Executive Summary  
@@ -134,8 +134,8 @@ regulators must ensure clarity (defining triggers, geographies). While no specif
 parametric products, there is little precedent. Traditional policies also often exclude “force majeure”
 income loss. In short, no existing policy is specifically built to stabilize gig incomes.
 ---
-# AI powered parametric insurance platform for gig workers
-## → SOLUTION AND FEATURES
+
+##  SOLUTION AND FEATURES
   ## Solution Overview – ShieldPay
 
 ShieldPay is an AI-powered parametric income protection system for gig delivery workers in quick-commerce platforms. Workers often face sudden income loss due to factors like weather, traffic, demand fluctuations, or platform outages—risks not covered by traditional insurance.
