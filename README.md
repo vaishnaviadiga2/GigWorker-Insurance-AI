@@ -157,18 +157,7 @@ For the hackathon, this integration is simulated using a mock platform API that 
 
 ShieldPay processes delivery platform data to detect income disruptions and trigger automated insurance payouts.
 
-Platform Data  
-↓  
-Income Prediction  
-↓  
-Disruption Detection  
-↓  
-Parametric Trigger  
-↓  
-Claim Generation  
-↓  
-Payout
-<img width="564" height="1844" alt="image" src="https://github.com/user-attachments/assets/9f498f05-b36f-4a6c-a0d2-24d52352653c" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9f498f05-b36f-4a6c-a0d2-24d52352653c" />
 
 ### Step-by-Step Flow
 
