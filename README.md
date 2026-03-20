@@ -1,6 +1,6 @@
 ## Live Demo
 https://vaishnaviadiga2.github.io/GigWorker-Insurance-AI/
-# AI Powered Parametric Insurance Platform For Gig Workers
+# ShieldPay: AI Powered Parametric Insurance Platform For Gig Workers
 
 
 ## Problem Statement and User Research
