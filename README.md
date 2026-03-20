@@ -87,7 +87,8 @@ Fuel and maintenance costs consume a significant portion of income, reducing net
 6. **Health & Safety Risks**  
 Accidents or illness result in immediate income loss, with no paid leave or financial protection.
 
-Overall, gig workers experience high income volatility (20–50% fluctuations) with no reliable safety net.
+Overall, gig workers experience high income volatility (20-50% fluctuations) with no reliable safety net.
+
 ---
 
 ## Gaps in Existing Insurance  
@@ -113,6 +114,7 @@ Existing insurance models are not suited for irregular incomes. High or fixed pr
 Parametric insurance is still emerging, with limited adoption and unclear frameworks in India.
 
 Overall, there is no scalable, real-time insurance solution designed specifically for gig income protection.
+
 ---
 
 ##  SOLUTION AND FEATURES
