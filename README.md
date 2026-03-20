@@ -40,8 +40,8 @@ Recent regulations recognize gig workers and introduce basic social security ben
 
 ## User Personas  
 
->Rahul (Mumbai, age 28)   
-Rahul is a full-time q-commerce delivery partner (motorbike courier) affiliated
+Rahul (Mumbai, age 28)   
+>Rahul is a full-time q-commerce delivery partner (motorbike courier) affiliated
 with a leading app. He logs in ~10–12 hours on most weekdays and 8–10 on weekends, aiming for the peak-
 hour incentives. Income: On average he delivers ~25 orders/day, earning gross ~₹2,600/day (≈₹26,000/
 month) . After 20% costs (fuel, maintenance), net ~₹21,000. However, in a slow week (monsoon showers
