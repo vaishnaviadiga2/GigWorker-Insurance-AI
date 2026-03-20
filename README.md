@@ -35,7 +35,8 @@ Gig delivery is concentrated in major cities but is expanding to Tier-II and Tie
 The q-commerce market is dominated by platforms like Blinkit, Zepto, and Swiggy Instamart, with a strong presence in urban delivery ecosystems.
 
 ### Regulatory Context  
-Recent regulations recognize gig workers and introduce basic social security benefits. However, income protection for daily earnings remains largely unaddressed.
+**Recent regulations recognize gig workers and introduce basic social security benefits.However, inome protetion for daily earnings remains largely unaddressed.**
+
 ---
 
 ## User Personas  
