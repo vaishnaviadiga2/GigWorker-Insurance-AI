@@ -24,27 +24,27 @@ Despite long working hours, declining per-order rates and rising costs (fuel, ma
 
 ## Market Overview: Gig Workers in India  
 ________________________________________
-#Workforce Size & Growth
+**Workforce Size & Growth**
 
 India’s gig workforce is rapidly growing from ~7.7 million workers to an expected ~23.5 million by 2030, driven by urbanization and digital platforms. Q-commerce is one of the fastest-growing segments, with rapid expansion in demand and operations.
 This growth is further accelerated by increasing consumer preference for instant delivery services.
 
-#Demographics
+**Demographics**
 
 Most gig workers are young and rely heavily on daily earnings, typically earning ₹5,000–₹30,000 per month. Many work part-time or irregular hours, leading to unstable income with limited financial security.
 A large share of workers depend on gig work as their primary or supplementary source of income.
 
-#Urban Distribution
+**Urban Distribution**
 
 Gig delivery is concentrated in major cities but is expanding to Tier-II and Tier-III regions due to increasing internet access and digital adoption.
 Improved logistics infrastructure is enabling faster penetration into smaller cities.
 
-#Market Share
+**Market Share**
 
 The q-commerce market is dominated by platforms like Blinkit, Zepto, and Swiggy Instamart, with a strong presence in urban delivery ecosystems.
 Competition among these platforms is driving faster delivery timelines and higher order volumes.
 
-#Regulatory Context
+**Regulatory Context**
 
 Recent regulations recognize gig workers and introduce basic social security benefits. However, income protection for daily earnings remains largely unaddressed.
 Policy frameworks are still evolving and have yet to fully address income volatility risks.
