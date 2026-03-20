@@ -3,11 +3,11 @@ https://vaishnaviadiga2.github.io/GigWorker-Insurance-AI/
 # AI Powered Parametric Insurance Platform For Gig Workers
 
 
-## Executive Summary  
+## Problem Statement and User Research
 
-India’s gig delivery workforce is rapidly growing, but faces significant income instability due to external disruptions such as weather, demand fluctuations, and platform outages. Despite strong market growth, most delivery workers experience irregular earnings and lack any form of income protection.
+India’s gig delivery workforce is rapidly growing, but faces significant income instability due to unforeseen external disruptions such as weather, demand fluctuations, and platform outages. Despite strong market growth, most delivery workers experience irregular earnings and lack any form of income protection which when addressed can encourage more people to take up gig delivery either in full-time or part-time format.
 
-ShieldPay addresses this gap through an AI-powered parametric insurance system that predicts expected earnings and automatically triggers payouts when income drops due to such disruptions. By leveraging platform data, external signals, and automated claim processing, the solution ensures fast, reliable, and frictionless income protection.
+ShieldPay addresses this gap through an **AI-powered Parametric Insurance System** that predicts expected earnings and automatically triggers payouts when income drops due to such disruptions. By leveraging platform data, external signals, and automated claim processing, the solution ensures fast, reliable, and frictionless income protection.
 
 **Designed with a weekly premium model aligned to gig work patterns, ShieldPay provides a scalable and practical approach to safeguarding the livelihoods of delivery workers in India's evolving gig economy.**
 
@@ -15,9 +15,9 @@ ShieldPay addresses this gap through an AI-powered parametric insurance system t
 
 ## Income Instability in Q-Commerce Delivery  
 
-Q-commerce delivery workers rely on on-demand jobs, making their income highly dependent on external factors such as weather, demand fluctuations, and platform outages. These disruptions can reduce earnings by 20–30% or more, with no guaranteed compensation.
+Q-commerce delivery workers rely on on-demand jobs, making their income highly dependent on external factors such as weather, demand fluctuations, and platform outages. These disruptions can reduce earnings by 20 to 30% or more, with no guaranteed compensation.
 
-Despite long working hours, declining per-order rates and rising costs (fuel, maintenance) further reduce net income. During low-demand periods or disruptions, workers often earn significantly less—or nothing at all.
+Despite long working hours, declining per-order rates and rising costs like fuel, maintenance can further reduce net income. During low demand periods or disruptions, workers often earn significantly less or sometimes nothing at all.
 **As a result, gig delivery work offers flexibility but suffers from highly unpredictable and unstable earnings, creating financial stress for workers.**
 
 ---
@@ -69,7 +69,7 @@ Anita is a part-time delivery rider and a college student in Bengaluru. She ride
 Gig delivery workers face multiple financial and operational risks:
 
 1. **Income Drops**  
-Earnings fluctuate heavily due to low demand, incentives, or platform downtime. Workers may earn significantly less or even ₹0—during disruptions.
+Earnings fluctuate heavily due to low demand, incentives, or platform downtime. Workers may earn significantly less or even ₹0 during disruptions.
 
 2. **Weather & Environment**  
 Rain, floods, and extreme heat directly reduce working hours, increase expenses, and create safety risks.
@@ -86,7 +86,7 @@ Fuel and maintenance costs consume a significant portion of income, reducing net
 6. **Health & Safety Risks**  
 Accidents or illness result in immediate income loss, with no paid leave or financial protection.
 
-Overall, gig workers experience high income volatility (20-50% fluctuations) with no reliable safety net.
+Overall, gig workers experience high income volatility around 20 to 50% fluctuations with no reliable safety net.
 
 ---
 
@@ -96,7 +96,7 @@ Traditional insurance does not effectively address income instability faced by g
 
 • **Coverage Gaps**  
 Most policies cover health or accidents, but not income loss. Workers have no protection for missed earnings.
-This leaves daily wage earners particularly vulnerable to short-term disruptions.
+This leaves daily wage earners particularly vulnerable to short term disruptions.
 
 • **Claim Friction**  
 Claims require manual verification and documentation, which is difficult for gig workers with no formal income records. Processing is slow and inefficient.
