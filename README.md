@@ -25,22 +25,27 @@ Despite long working hours, declining per-order rates and rising costs (fuel, ma
 ## Market Overview: Gig Workers in India  
 ________________________________________
 ###Workforce Size & Growth
+
 India’s gig workforce is rapidly growing from ~7.7 million workers to an expected ~23.5 million by 2030, driven by urbanization and digital platforms. Q-commerce is one of the fastest-growing segments, with rapid expansion in demand and operations.
 This growth is further accelerated by increasing consumer preference for instant delivery services.
 
 ###Demographics
+
 Most gig workers are young and rely heavily on daily earnings, typically earning ₹5,000–₹30,000 per month. Many work part-time or irregular hours, leading to unstable income with limited financial security.
 A large share of workers depend on gig work as their primary or supplementary source of income.
 
 ###Urban Distribution
+
 Gig delivery is concentrated in major cities but is expanding to Tier-II and Tier-III regions due to increasing internet access and digital adoption.
 Improved logistics infrastructure is enabling faster penetration into smaller cities.
 
 ###Market Share
+
 The q-commerce market is dominated by platforms like Blinkit, Zepto, and Swiggy Instamart, with a strong presence in urban delivery ecosystems.
 Competition among these platforms is driving faster delivery timelines and higher order volumes.
 
 ###Regulatory Context
+
 Recent regulations recognize gig workers and introduce basic social security benefits. However, income protection for daily earnings remains largely unaddressed.
 Policy frameworks are still evolving and have yet to fully address income volatility risks.
 
@@ -48,8 +53,9 @@ Policy frameworks are still evolving and have yet to fully address income volati
 
 ## User Personas  
 
-Rahul (Mumbai, age 28)   
->Rahul is a full-time q-commerce delivery partner (motorbike courier) affiliated
+Rahul (Mumbai, age 28)  
+
+Rahul is a full-time q-commerce delivery partner (motorbike courier) affiliated
 with a leading app. He logs in ~10–12 hours on most weekdays and 8–10 on weekends, aiming for the peak-
 hour incentives. Income: On average he delivers ~25 orders/day, earning gross ~₹2,600/day (≈₹26,000/
 month) . After 20% costs (fuel, maintenance), net ~₹21,000. However, in a slow week (monsoon showers
@@ -58,10 +64,12 @@ home), food ₹4,000, bike fuel ~₹4,500, spare parts ₹1,500, mobile/data ₹
 ~₹10,000. Goals: Save ₹5k/month, remit ₹3k to parents, ideally buy a small apartment. He has a smartphone
 and regularly uses WhatsApp and the delivery app. Rahul is concerned about health costs (injury risk),
 major bike repairs, and wants more income stability.
+
 ---
 
  Anita (Bengaluru, age 22)  
->Anita is a part-time delivery partner and college student. She logs 4–6 hours
+
+Anita is a part-time delivery partner and college student. She logs 4–6 hours
 on 3–4 weekdays, mostly during lunch/early evening, and works ~8 hours on Saturdays. Income: She
 completes ~12 orders/day when busy, earning ~₹600/day. Monthly income ~₹7,000 (fluctuates ±30% by
 month). After a rain day (when she can’t ride safely), she might earn only ₹400 or skip work. Tips add a small
@@ -70,6 +78,7 @@ personal. Bike fuel ~₹1,200, phone bill ₹300. Goals: Pay her own tuition fee
 laptop. She expects no formal benefits and relies on freelancing/study support for income. Anita is tech-
 savvy (regularly checks weather app) and values flexible scheduling, but fears losing a study stipend if she’s
 injured.
+
 ---
 
 ## Key Pain Points  
@@ -105,6 +114,7 @@ Traditional insurance does not effectively address income instability faced by g
 • **Coverage Gaps**  
 Most policies cover health or accidents, but not income loss. Workers have no protection for missed earnings.
 This leaves daily wage earners particularly vulnerable to short-term disruptions.
+
 • **Claim Friction**  
 Claims require manual verification and documentation, which is difficult for gig workers with no formal income records. Processing is slow and inefficient.
 Many workers lack the time or resources to complete complex claim procedures.
@@ -126,6 +136,7 @@ Parametric insurance is still emerging, with limited adoption and unclear framew
 This slows innovation and large-scale deployment of new insurance models.
 
 Overall, there is no scalable, real-time insurance solution designed specifically for gig income protection.
+
 ---
 
 
