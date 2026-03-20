@@ -40,7 +40,7 @@ Recent regulations recognize gig workers and introduce basic social security ben
 
 ## User Personas  
 
- Rahul (Mumbai, age 28)   
+>Rahul (Mumbai, age 28)   
 Rahul is a full-time q-commerce delivery partner (motorbike courier) affiliated
 with a leading app. He logs in ~10–12 hours on most weekdays and 8–10 on weekends, aiming for the peak-
 hour incentives. Income: On average he delivers ~25 orders/day, earning gross ~₹2,600/day (≈₹26,000/
@@ -53,7 +53,7 @@ major bike repairs, and wants more income stability.
 ---
 
  Anita (Bengaluru, age 22)  
-Anita is a part-time delivery partner and college student. She logs 4–6 hours
+>Anita is a part-time delivery partner and college student. She logs 4–6 hours
 on 3–4 weekdays, mostly during lunch/early evening, and works ~8 hours on Saturdays. Income: She
 completes ~12 orders/day when busy, earning ~₹600/day. Monthly income ~₹7,000 (fluctuates ±30% by
 month). After a rain day (when she can’t ride safely), she might earn only ₹400 or skip work. Tips add a small
@@ -68,37 +68,37 @@ injured.
 
 Gig delivery workers face many financial and operational risks:
 
-**1.Income Drops:** On “slow” days (off-peak or inclement weather), orders plunge. A Blinkit rider reports
+>1.Income Drops: On “slow” days (off-peak or inclement weather), orders plunge. A Blinkit rider reports
 only ₹1,000–1,200 earned after a 16h day . Platforms push incentives for high-volume hours, so
 stopping short of a target causes earnings to drop sharply . Workers absorb full downtime: if an
 app goes down or zones shut (curfew/strikes), they earn literally ₹0 that period. 
 
-**2.Weather & Environment**: Heavy rain or floods make riding dangerous or impossible . Riders
+2.Weather & Environment: Heavy rain or floods make riding dangerous or impossible . Riders
 must buy expensive rain gear (which they often can’t afford) . Flooded roads hide potholes,
 causing bike damage or injuries . One cyclist said rain increased his expenses and left him unable
 to work, costing him an entire day’s pay . Extreme heat is also a hazard (heat stress studies show
 outdoor workers must choose between health and income ). 
 
-**3.Demand Fluctuations**: Festivals, exams, and local events cause unpredictable surges or lulls. For
+3.Demand Fluctuations: Festivals, exams, and local events cause unpredictable surges or lulls. For
 example, New Year’s Eve strikes led platforms to double hourly rates (₹120–150 per order) , but
 also left many workers unpaid after they walked out. The relentless 10‑minute delivery model
 inherently creates pressure to drive fast; unions cite unsafe speed targets . Seasonal effects
 (summer, monsoon) typically reduce grocery/food orders. 
 
-**4.Platform & Tech Risks:** System outages, GPS glitches, or app bugs can abruptly drop a driver’s
+>>4.Platform & Tech Risks: System outages, GPS glitches, or app bugs can abruptly drop a driver’s
 available orders. When algorithms punish selective order rejections, workers can get “de-prioritized”
 by the app and starve for jobs . 
 
-**5.Rising Costs**: Fuel and vehicle upkeep eat ~20% of a rider’s gross earnings . Fuel prices have rise
+>>5.Rising Costs: Fuel and vehicle upkeep eat ~20% of a rider’s gross earnings . Fuel prices have rise
 steadily, squeezing net income. Dashboards do not reimburse routine costs (tire/tube, oil changes,
 smartphone data). Even small device failures (phone screen cracks) can halt work. 
 
-**6.Health & Safety:** Delivery riders face daily accident risk on India’s roads (about one road fatality
+>>6.Health & Safety: Delivery riders face daily accident risk on India’s roads (about one road fatality
 every 3 minutes nationally ). There is no paid sick leave; an injury means lost days and medical
 bills. Pandemic lockdowns also eliminated income for weeks. Workers report no safety net for “force
 majeure” events. 
 
-Quantitatively, in heavy rains or heat, workers lose a day’s wages and pay extra. Combined with already
+>Quantitatively, in heavy rains or heat, workers lose a day’s wages and pay extra. Combined with already
 low per-order rates (as low as ₹30–35 ), such shocks can mean thousands of rupees lost in a week. These
 factors compound: for instance, the Quint notes many workers now earn “no overtime” for 12h shifts,
 effectively violating minimum wages . In sum, income volatility of 20–50% from week to week is
@@ -108,33 +108,33 @@ common.
 ## Gaps in Existing Insurance  
 Traditional insurance products largely do not address gig income instability. Key shortcomings include: 
 
-**•Coverage Gaps:** Most policies cover accidents, health, or life—but not income. Workers lack a way to
+>>•Coverage Gaps: Most policies cover accidents, health, or life—but not income. Workers lack a way to
 insure their variable earnings. Government schemes (e.g. PMJJBY/PMSBY accident life plans) have
 low limits (e.g. ₹2–5 lakh) and ignore lost wages. Social security code mandates are new and
 limited to statutory benefits (PF, ESIC) , not income continuity. No insurer currently offers
 indemnity for missed days of work in India’s gig sector. 
 
-**•Claim Friction:** Traditional income-replacement (e.g. disability insurance) would require verifying
+>•Claim Friction: Traditional income-replacement (e.g. disability insurance) would require verifying
 loss and navigating claims bureaucracy. Gig workers, often paid per task with no formal payslips,
 would struggle to prove lost income or job interruption. Slow claims processing (weeks/months)
 defeats the purpose of short-term income protection. Parametric designs eliminate this friction by
 triggering payout automatically without loss proof . 
 
-**•Moral Hazard and Pricing**: Insurers shy away from covering effort-based loss due to moral hazard
+>•Moral Hazard and Pricing: Insurers shy away from covering effort-based loss due to moral hazard
 (workers could game reporting). Traditional underwriting relies on opaque data about behavior,
 making premiums high. By contrast, parametric schemes rely on objective indices (weather, demand
 data), reducing moral hazard .
 
-**•Timing & Liquidity:** Even if covered, a standard claim payout can take 30+ days. But gig workers
+>•Timing & Liquidity: Even if covered, a standard claim payout can take 30+ days. But gig workers
 need immediate funds to pay daily expenses. Parametric payouts (if automated) can be disbursed
 within hours of a trigger , preventing cascading losses (e.g. not paying rent). 
 
-**•Affordability:** Gig incomes are low/irregular. Large annual premiums or upfront costs are
+>•Affordability: Gig incomes are low/irregular. Large annual premiums or upfront costs are
 prohibitive. Existing insurance often targets salaried classes. Experts advocate micro-premiums or
 one-time small payments aligned to weekly earnings . Monthly payment models fail when
 workers take unpaid breaks ; insurance design must match gig work patterns (e.g. weekly). 
 
-**•Regulatory Hurdles:** Parametric policies (index-based payouts) are still novel in India. Insurers and
+>•Regulatory Hurdles: Parametric policies (index-based payouts) are still novel in India. Insurers and
 regulators must ensure clarity (defining triggers, geographies). While no specific law forbids
 parametric products, there is little precedent. Traditional policies also often exclude “force majeure”
 income loss. In short, no existing policy is specifically built to stabilize gig incomes.
