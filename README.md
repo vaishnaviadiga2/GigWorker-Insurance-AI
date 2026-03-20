@@ -24,27 +24,27 @@ Despite long working hours, declining per-order rates and rising costs (fuel, ma
 
 ## Market Overview: Gig Workers in India  
 ________________________________________
-###Workforce Size & Growth
+#Workforce Size & Growth
 
 India’s gig workforce is rapidly growing from ~7.7 million workers to an expected ~23.5 million by 2030, driven by urbanization and digital platforms. Q-commerce is one of the fastest-growing segments, with rapid expansion in demand and operations.
 This growth is further accelerated by increasing consumer preference for instant delivery services.
 
-###Demographics
+#Demographics
 
 Most gig workers are young and rely heavily on daily earnings, typically earning ₹5,000–₹30,000 per month. Many work part-time or irregular hours, leading to unstable income with limited financial security.
 A large share of workers depend on gig work as their primary or supplementary source of income.
 
-###Urban Distribution
+#Urban Distribution
 
 Gig delivery is concentrated in major cities but is expanding to Tier-II and Tier-III regions due to increasing internet access and digital adoption.
 Improved logistics infrastructure is enabling faster penetration into smaller cities.
 
-###Market Share
+#Market Share
 
 The q-commerce market is dominated by platforms like Blinkit, Zepto, and Swiggy Instamart, with a strong presence in urban delivery ecosystems.
 Competition among these platforms is driving faster delivery timelines and higher order volumes.
 
-###Regulatory Context
+#Regulatory Context
 
 Recent regulations recognize gig workers and introduce basic social security benefits. However, income protection for daily earnings remains largely unaddressed.
 Policy frameworks are still evolving and have yet to fully address income volatility risks.
@@ -53,7 +53,7 @@ Policy frameworks are still evolving and have yet to fully address income volati
 
 ## User Personas  
 
-Rahul (Mumbai, age 28)  
+**Rahul (Mumbai, age 28)**  
 
 Rahul is a full-time q-commerce delivery partner (motorbike courier) affiliated
 with a leading app. He logs in ~10–12 hours on most weekdays and 8–10 on weekends, aiming for the peak-
@@ -67,8 +67,8 @@ major bike repairs, and wants more income stability.
 
 ---
 
- Anita (Bengaluru, age 22)  
-
+ **Anita (Bengaluru, age 22)**
+ 
 Anita is a part-time delivery partner and college student. She logs 4–6 hours
 on 3–4 weekdays, mostly during lunch/early evening, and works ~8 hours on Saturdays. Income: She
 completes ~12 orders/day when busy, earning ~₹600/day. Monthly income ~₹7,000 (fluctuates ±30% by
