@@ -149,7 +149,6 @@ ShieldPay is built as a modular system with 4 key components:
 - Execute instant transfer via payment system  
 Entire system runs in real-time with zero manual intervention
 
--again from below line
 
 ## How the AI Works  
 
@@ -173,7 +172,6 @@ ShieldPay uses a **time-series income prediction model** to estimate expected ea
 - Else → no action  
 
  Core Idea: **AI creates a personalized "expected income baseline" for every worker**
-_again from below line 
 
 ## Target Users  
 
