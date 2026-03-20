@@ -53,31 +53,14 @@ Policy frameworks are still evolving and have yet to fully address income volati
 
 ## User Personas  
 
-**Rahul (Mumbai, age 28)**  
+**Rahul** (28, Mumbai)  
+Rahul is a full-time q-commerce delivery rider in Mumbai who spends 10–12 hours on his motorbike most weekdays and 8–10 hours on weekends, chasing peak hour bonuses. He manages around 25 deliveries a day, bringing in roughly ₹2,600 gross which sums up to ₹26,000 a month. His main expenses are fuel, maintenance and other costs that eat up nearly 20% of his income, after which he takes home around ₹21,000. But heavy rain or sudden app glitches can cut orders by 30%, wiping out ₹6,000 to 8,000 in a single bad week. He spends around ₹8,000 on rent for a shared flat, ₹4,000 on food, ₹4,500 on fuel, ₹1,500 on bike repairs, ₹500 for mobile data, and another ₹10,000 for his wife and toddler’s needs. What keeps him up at night is the fear of injury bills, unexpected and big repairs, and months when money just doesn’t add up. His aims to save ₹5,000 every month, send ₹3,000 home to his parents and one day buy a small apartment which he can proudly call their own. He is handy with WhatsApp and the delivery app, checking incentives throughout the day.
 
-Rahul is a full-time q-commerce delivery partner (motorbike courier) affiliated
-with a leading app. He logs in ~10–12 hours on most weekdays and 8–10 on weekends, aiming for the peak-
-hour incentives. Income: On average he delivers ~25 orders/day, earning gross ~₹2,600/day (≈₹26,000/
-month) . After 20% costs (fuel, maintenance), net ~₹21,000. However, in a slow week (monsoon showers
-or an app glitch), orders may drop 30%, slashing his pay by ~₹6–8k that week. Expenses: Rent ₹8,000 (shared
-home), food ₹4,000, bike fuel ~₹4,500, spare parts ₹1,500, mobile/data ₹500. Family (wife + toddler) needs
-~₹10,000. Goals: Save ₹5k/month, remit ₹3k to parents, ideally buy a small apartment. He has a smartphone
-and regularly uses WhatsApp and the delivery app. Rahul is concerned about health costs (injury risk),
-major bike repairs, and wants more income stability.
 
 ---
 
- **Anita (Bengaluru, age 22)**
- 
-Anita is a part-time delivery partner and college student. She logs 4–6 hours
-on 3–4 weekdays, mostly during lunch/early evening, and works ~8 hours on Saturdays. Income: She
-completes ~12 orders/day when busy, earning ~₹600/day. Monthly income ~₹7,000 (fluctuates ±30% by
-month). After a rain day (when she can’t ride safely), she might earn only ₹400 or skip work. Tips add a small
-amount (₹100–200/week). Expenses: Lives with parents (no rent); spends ₹2,000 on studies and ₹1,000 on
-personal. Bike fuel ~₹1,200, phone bill ₹300. Goals: Pay her own tuition fees (₹4k/month) and save for a
-laptop. She expects no formal benefits and relies on freelancing/study support for income. Anita is tech-
-savvy (regularly checks weather app) and values flexible scheduling, but fears losing a study stipend if she’s
-injured.
+**Anita** (22, Bengaluru)  
+Anita is a part-time delivery rider and a college student in Bengaluru. She rides 4 to 6 hours on 3 or 4 weekdays which mostly consists of lunch time and early evening and puts in a longer eight-hour shift on Saturdays, finishing about 12 orders on good days during which she manages to earn around ₹600. Her monthly earnings average ₹7,000, but they vary a lot around 30%, depending on weather, exams or order flow, with just ₹100 to 200 in tips on weeks when she is lucky. Rainy days often mean she earns only ₹400 or skips deliveries entirely to stay safe from accidents that happen during rain showers. Living with her parents means no rent, but she still spends around ₹2,000 on studies, ₹1,000 on herself, ₹1,200 on fuel and ₹300 on her phone. She really wants to pay her own ₹4,000 monthly tuition fees and save up for a decent laptop so she doesn’t have to keep asking her family or rely on a small stipend. Tech-savvy and always checking the weather app, Anita loves the freedom to choose her hours, but she worries that one injury could wipe out her income and put her college side hustle at risk.
 
 ---
 
@@ -86,7 +69,7 @@ injured.
 Gig delivery workers face multiple financial and operational risks:
 
 1. **Income Drops**  
-Earnings fluctuate heavily due to low demand, incentives, or platform downtime. Workers may earn significantly less—or even ₹0—during disruptions.
+Earnings fluctuate heavily due to low demand, incentives, or platform downtime. Workers may earn significantly less or even ₹0—during disruptions.
 
 2. **Weather & Environment**  
 Rain, floods, and extreme heat directly reduce working hours, increase expenses, and create safety risks.
