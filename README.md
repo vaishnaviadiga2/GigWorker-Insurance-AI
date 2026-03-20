@@ -5,11 +5,11 @@ https://vaishnaviadiga2.github.io/GigWorker-Insurance-AI/
 
 ## Problem Statement and User Research
 
-India’s gig delivery workforce is rapidly growing, but faces significant income instability due to unforeseen external disruptions such as weather, demand fluctuations, and platform outages. Despite strong market growth, most delivery workers experience irregular earnings and lack any form of income protection which when addressed can encourage more people to take up gig delivery either in full-time or part-time format.
+India’s gig delivery workforce is expanding rapidly, but income remains highly unstable due to disruptions like weather, demand fluctuations, and platform outages. Most workers lack any reliable income protection.
 
-ShieldPay addresses this gap through an **AI-powered Parametric Insurance System** that predicts expected earnings and automatically triggers payouts when income drops due to such disruptions. By leveraging platform data, external signals, and automated claim processing, the solution ensures fast, reliable, and frictionless income protection.
+ShieldPay solves this with an AI-powered parametric insurance system that predicts expected earnings and automatically triggers payouts when income drops. By combining platform data, external signals, and automated processing, it delivers fast, seamless, and reliable protection.
 
-**Designed with a weekly premium model aligned to gig work patterns, ShieldPay provides a scalable and practical approach to safeguarding the livelihoods of delivery workers in India's evolving gig economy.**
+Built on a weekly premium model tailored to gig work, ShieldPay offers a scalable solution to secure and stabilize incomes in India’s growing gig economy.
 
 ---
 
