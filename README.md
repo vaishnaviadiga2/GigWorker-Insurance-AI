@@ -16,8 +16,8 @@ ShieldPay addresses this gap through an AI-powered parametric insurance system t
 Q-commerce delivery workers rely on on-demand jobs, making their income highly dependent on external factors such as weather, demand fluctuations, and platform outages. These disruptions can reduce earnings by 20–30% or more, with no guaranteed compensation.
 
 Despite long working hours, declining per-order rates and rising costs (fuel, maintenance) further reduce net income. During low-demand periods or disruptions, workers often earn significantly less—or nothing at all.
-
 **As a result, gig delivery work offers flexibility but suffers from highly unpredictable and unstable earnings, creating financial stress for workers.**
+
 ---
 
 ## Market Overview: Gig Workers in India  
