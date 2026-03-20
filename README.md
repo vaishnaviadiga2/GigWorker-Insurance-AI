@@ -6,8 +6,8 @@
 India’s gig delivery workforce is rapidly growing, but faces significant income instability due to external disruptions such as weather, demand fluctuations, and platform outages. Despite strong market growth, most delivery workers experience irregular earnings and lack any form of income protection.
 
 ShieldPay addresses this gap through an AI-powered parametric insurance system that predicts expected earnings and automatically triggers payouts when income drops due to such disruptions. By leveraging platform data, external signals, and automated claim processing, the solution ensures fast, reliable, and frictionless income protection.
+**Designed with a weekly premium model aligned to gig work patterns, ShieldPay provides a scalable and practical approach to safeguarding the livelihoods of delivery workers in India's evolving gig economy.**
 
-Designed with a weekly premium model aligned to gig work patterns, ShieldPay provides a scalable and practical approach to safeguarding the livelihoods of delivery workers in India’s evolving gig economy.
 ---
 
 ## Income Instability in Q-Commerce Delivery  
