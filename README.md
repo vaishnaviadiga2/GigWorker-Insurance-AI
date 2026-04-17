@@ -1,4 +1,6 @@
 # ShieldPay
+**Final Pitch Deck:**
+https://ap.wps.com/l/cbCaeonPhk7xyCVy
 
 ShieldPay is an AI-assisted income protection platform for gig workers. It combines a FastAPI backend, a React/Vite frontend, simulated or live environmental signals, fraud scoring, income prediction, behavioral trust scoring, automatic claims, and a live dashboard.
 
